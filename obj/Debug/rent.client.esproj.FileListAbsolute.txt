@@ -1,0 +1,1 @@
+C:\Git\Rent\src\rent.client\obj\Debug\rent.client.esproj.CoreCompileInputs.cache

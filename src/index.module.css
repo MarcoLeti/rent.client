@@ -1,0 +1,11 @@
+.main {
+  padding: 0px 40px;
+  max-width: 1650px;
+  margin: auto;
+}
+
+@media (min-width: 900px) {
+  .main {
+    padding-left: 280px; /* side menu width */
+  }
+}
